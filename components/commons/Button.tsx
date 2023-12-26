@@ -8,7 +8,7 @@ const Button = () => {
   return (
     <div>
         <div className='md:flex justify-center items-center gap-2  '>
-        <Link href="" className='flex justify-center items-center gap-2 py-3 px-6 bg-gray-600 text-white rounded-lg md:text-base text-md md:mt-0 mt-2 ' >
+        <Link href="https://github.com/ervinarviandi/ervin-starterKit-next-app-router" className='flex justify-center items-center gap-2 py-3 px-6 bg-gray-600 text-white rounded-lg md:text-base text-md md:mt-0 mt-2 ' >
             <FaGithub/>
             Open In Github
         </Link>
