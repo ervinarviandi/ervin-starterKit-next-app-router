@@ -1,9 +1,19 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+1. clone this repository to your local machine :
+```bash
+git clone https://github.com/ervinarviandi/ervin-starterKit-next-app-router.git
+```
+2. install the project dependencies :
+```bash
+npm install
+# or
+yarn
+```
 
-First, run the development server:
 
+3. run the development server :
 ```bash
 npm run dev
 # or
